@@ -1,0 +1,13 @@
+Image: gt1.png
+Total vehicles: 1
+==================================================
+
+Vehicle ID: vehicle_001
+Vehicle type: car
+Vehicle confidence: 0.535
+Plate type: ONE_LINE
+Plate text: T30A12345
+Lines: ['T30A12345']
+Status: OCR_OK
+--------------------------------------------------
+

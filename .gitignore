@@ -1,0 +1,11 @@
+
+# Chi bo qua cac thu muc dataset lon
+/licence plate/train/
+/licence plate/valid/
+/licence plate/test/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/

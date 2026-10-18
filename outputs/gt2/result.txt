@@ -1,0 +1,130 @@
+Image: gt2.png
+Total vehicles: 14
+==================================================
+
+Vehicle ID: vehicle_001
+Vehicle type: car
+Vehicle confidence: 0.894
+Plate type: ONE_LINE
+Plate text: 29A98765
+Lines: ['29A98765']
+Status: OCR_OK
+--------------------------------------------------
+
+Vehicle ID: vehicle_002
+Vehicle type: car
+Vehicle confidence: 0.891
+Plate type: ONE_LINE
+Plate text: 30A12345
+Lines: ['30A12345']
+Status: OCR_OK
+--------------------------------------------------
+
+Vehicle ID: vehicle_003
+Vehicle type: car
+Vehicle confidence: 0.890
+Plate type: ONE_LINE
+Plate text: UNKNOWN
+Lines: ['']
+Status: OCR_EMPTY
+--------------------------------------------------
+
+Vehicle ID: vehicle_004
+Vehicle type: car
+Vehicle confidence: 0.881
+Plate type: ONE_LINE
+Plate text: UNKNOWN
+Lines: ['']
+Status: OCR_EMPTY
+--------------------------------------------------
+
+Vehicle ID: vehicle_005
+Vehicle type: car
+Vehicle confidence: 0.874
+Plate type: TWO_LINES
+Plate text: TL-269990
+Lines: ['TL', '269990']
+Status: OCR_OK
+--------------------------------------------------
+
+Vehicle ID: vehicle_006
+Vehicle type: car
+Vehicle confidence: 0.835
+Plate type: ONE_LINE
+Plate text: 51K67890
+Lines: ['51K67890']
+Status: OCR_OK
+--------------------------------------------------
+
+Vehicle ID: vehicle_007
+Vehicle type: car
+Vehicle confidence: 0.811
+Plate type: ONE_LINE
+Plate text: UNKNOWN
+Lines: ['']
+Status: OCR_EMPTY
+--------------------------------------------------
+
+Vehicle ID: vehicle_008
+Vehicle type: motorcycle
+Vehicle confidence: 0.711
+Plate type: UNKNOWN
+Plate text: UNKNOWN
+Lines: []
+Status: PLATE_NOT_DETECTED
+--------------------------------------------------
+
+Vehicle ID: vehicle_009
+Vehicle type: motorcycle
+Vehicle confidence: 0.677
+Plate type: TWO_LINES
+Plate text: UNKNOWN
+Lines: ['', '']
+Status: OCR_EMPTY
+--------------------------------------------------
+
+Vehicle ID: vehicle_010
+Vehicle type: motorcycle
+Vehicle confidence: 0.676
+Plate type: UNKNOWN
+Plate text: UNKNOWN
+Lines: []
+Status: PLATE_NOT_DETECTED
+--------------------------------------------------
+
+Vehicle ID: vehicle_011
+Vehicle type: motorcycle
+Vehicle confidence: 0.646
+Plate type: UNKNOWN
+Plate text: UNKNOWN
+Lines: []
+Status: PLATE_NOT_DETECTED
+--------------------------------------------------
+
+Vehicle ID: vehicle_012
+Vehicle type: motorcycle
+Vehicle confidence: 0.544
+Plate type: UNKNOWN
+Plate text: UNKNOWN
+Lines: []
+Status: PLATE_NOT_DETECTED
+--------------------------------------------------
+
+Vehicle ID: vehicle_013
+Vehicle type: motorcycle
+Vehicle confidence: 0.492
+Plate type: UNKNOWN
+Plate text: UNKNOWN
+Lines: []
+Status: PLATE_NOT_DETECTED
+--------------------------------------------------
+
+Vehicle ID: vehicle_014
+Vehicle type: motorcycle
+Vehicle confidence: 0.361
+Plate type: UNKNOWN
+Plate text: UNKNOWN
+Lines: []
+Status: PLATE_NOT_DETECTED
+--------------------------------------------------
+

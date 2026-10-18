@@ -1,0 +1,14 @@
+path: E:\demoo\AI\Deeplearning\TrafficVision-AI\licence plate # dataset root dir
+train: train/images # train images (relative to 'path') 4 images
+val: valid/images # val images (relative to 'path') 4 images
+test: test/images # test images (optional)
+
+names:
+  0: plate
+
+roboflow:
+  workspace: computer-vision-m1xzb
+  project: licence-plate-khvsj
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/computer-vision-m1xzb/licence-plate-khvsj/dataset/2
